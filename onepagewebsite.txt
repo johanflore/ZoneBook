@@ -1,0 +1,76 @@
+http://tutorialzine.com/2010/02/html5-css3-website-template/
+
+http://codeplanet.io/how-to-make-a-single-page-website/
+
+https://ihatetomatoes.net/how-to-create-a-parallax-scrolling-website-part-2/
+
+http://www.1stwebdesigner.com/create-scrolling-parallax-website/
+
+http://www.websitemagazine.com/content/blogs/posts/archive/2013/10/17/5-minute-single-page-scrolling-website.aspx
+
+http://startbootstrap.com/template-overviews/grayscale/
+
+http://blog.seangransee.com/post/30716164962/how-to-build-an-elegant-one-page-scrolling-website
+
+http://singlepageappbook.com/index.html
+
+http://www.wpfreeware.com/tutorial/incredible-parallax-single-page-website-templates/
+
+http://webdesign.tutsplus.com/tutorials/build-a-responsive-single-page-portfolio-with-sass-and-compass--webdesign-10734
+
+https://www.freshdesignweb.com/free-one-page-website-templates/
+
+http://egrappler.com/10-jquery-plugins-to-add-cool-effects/
+
+http://egrappler.com/free-single-page-responsive-portfolio-website-template-tenero/#download-resource
+
+http://www.html5xcss3.com/2015/05/useful-html5-tutorials-creating-a-html5-css3-template.html
+
+https://www.script-tutorials.com/creating-a-html5-css3-single-page-template/
+
+http://designwoop.com/2012/02/tutorial-create-a-minimal-single-page-portfolio-with-html5css3/
+
+http://www.inserthtml.com/2012/04/single-page-css/
+
+http://codeplanet.io/how-to-make-a-single-page-website/
+
+http://designshack.net/articles/navigation/single-page-sliding-website-layout-fixed-nav/
+
+http://www.outyear.co.uk/smint/         !! blanco pagina!
+
+http://blog.teamtreehouse.com/open-source-jquery-plugins-for-building-single-page-website-layouts
+
+http://callmenick.com/post/single-page-site-with-smooth-scrolling-highlighted-link-and-fixed-navigation
+
+https://www.youtube.com/watch?v=eOG90Q8EfRo
+
+http://www.1stwebdesigner.com/create-a-responsive-website-video-tutorial/
+
+http://tutorialzine.com/2014/07/20-impressive-css3-techniques-libraries-and-examples/
+
+
+
+
+
+
+http://www.colorpicker.com/
+
+https://css-tricks.com/
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+code om beeld aan te passen aan toestel
+<head>
+<title>My Portfolio</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
